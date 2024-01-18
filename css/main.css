@@ -1,0 +1,156 @@
+*{
+    background-color: #000;
+}
+
+p{
+    color: white;
+}
+
+h1{
+    margin-left: 28%;
+    width: 41%;
+    color: white;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 96px;
+    line-height: 100px;
+    text-align: center;
+}
+
+h2{
+    color: white;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.header__menu{
+    display: flex;
+    flex-direction: row;
+    margin-top: 28px;
+    margin-left: 48px;
+    margin-right: 48px;
+    margin-bottom: 56px;
+    gap: 1509px;
+}
+
+.header__menu-language{
+    display: flex;
+    flex-direction: row;
+    gap: 18px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: right;
+}
+
+.real__country-text{
+    margin-left: 32%;
+    width: 33%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+}
+
+.real__country-shelf{
+    margin-left: 25%;
+}
+
+.poster__image{
+    margin-left: 25%;
+}
+
+.about__country{
+    margin-top: 92px;
+    margin-bottom: 92px;
+    margin-left: 25%;
+}
+
+.about__country-header{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 54px;
+    line-height: 58px;
+}
+
+.about__country-text{
+    width: 50%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 163%;
+}
+
+.about__country-timezone{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+}
+
+.nature{
+    margin-left: 18%;
+}
+
+.nature-photo{
+    padding: 15px;
+}
+
+.sights-country{
+    margin-left: 25%;
+    margin-bottom: 92px;
+    gap: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+.sights-country__header{
+    margin-left: 25%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 72px;
+    line-height: 76px;
+}
+
+.sights-country__text{
+    width: 54%;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 163%;
+}
+
+.main-poster{
+    margin-left: 20%;
+}
+
+.footer__text{
+    margin-top: 92px;
+    margin-left: 299px;
+    display: flex;
+    flex-direction: row;
+    gap: 532px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+}
+
+.footer__text-menu-block{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
